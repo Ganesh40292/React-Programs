@@ -74,7 +74,7 @@ export default function App() {
               className={t.done ? "done" : ""}
             >
               <b>{t.name}</b> - {t.date}
-              {t.desc &&  | ${t.desc}`}
+              {t.desc &&`  | ${t.desc}`}
             </li>
           ))}
       </ul>
