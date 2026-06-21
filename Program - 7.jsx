@@ -7,9 +7,9 @@ function App() {
   return (
     <div>
       <ProfileCard
-        name="Preethi M"
-        bio="Hello dear students, I hope you have finished executing today’s lab program. Please do not waste time, complete your record book and submit it on my table by Monday."
-        image="https://sode-edu.in/smvitm/wp-content/uploads/2024/01/KMB_7084.jpg"
+        name="Ganesh Prasad"
+        bio="Welcome to my profile page"
+        image="https://www.wallsnapy.com/img_gallery/monkey-d-luffy-anime-face-closeup-4k-wallpaper-630237.jpg"
         bgColor="#e6f2ff"
       />
     </div>
